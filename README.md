@@ -1,4 +1,4 @@
-🧠 Object Mover: Visual Object Masking in Images
+#Object Mover: Visual Object Masking in Images
 
 This is a fun little Colab experiment where I built a basic pipeline that lets you highlight and visualize specific areas in an image — like the first step you'd take before moving objects using generative AI.
 
